@@ -1,6 +1,6 @@
 # Currency Converter
 
-![Currency Converter Logo](https://via.placeholder.com/150)
+![Currency Converter Logo](menu.png)
 
 Este proyecto es un conversor de monedas basado en una API externa, desarrollado como parte del curso de AluraLatam y Oracle Next One - Grupo 7. La aplicación permite convertir entre diferentes monedas, mostrar el historial de conversiones y listar las monedas soportadas.
 
