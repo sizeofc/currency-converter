@@ -1,0 +1,4 @@
+basecurrency:ARS,targetCurrency:USD,amount:1000.0,convertion_result:1020.9999999999999,date:2024/10/11 21:28
+basecurrency:ARS,targetCurrency:CLP,amount:1000.0,convertion_result:951300.0,date:2024/10/11 21:28
+basecurrency:ARS,targetCurrency:USD,amount:1000.0,convertion_result:1020.9999999999999,date:2024/10/11 21:43
+basecurrency:CLP,targetCurrency:BRL,amount:1000.0,convertion_result:5994.0,date:2024/10/11 21:48
